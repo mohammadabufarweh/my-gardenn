@@ -1,0 +1,41 @@
+header{
+    background-color: #71c7ec;
+    color: #ffffff;
+    text-align: center;
+}
+main{
+    height: 500px;
+}
+.mainDiv{
+    display: grid;
+    grid-auto-columns:250px 300px;
+}
+#theForm{
+    width: 100px;
+    height: 150px;
+}
+.formcss{
+    width: 250px;
+}
+
+#mainImg{
+    width: 100px;
+}
+table{
+    width: 200px;
+    border-collapse: collapse;
+    border: solid 2px white;
+    background-color: #1ebbd7;
+}
+table  td {
+    border-collapse: collapse;
+    padding: 10px 10px;
+
+    border: solid 2px rgb(255, 255, 255);
+}
+footer{
+    color: white;
+    text-align: center;
+    background-color:#189ad3 ;
+
+}
